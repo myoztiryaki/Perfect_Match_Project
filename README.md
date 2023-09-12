@@ -1,4 +1,4 @@
-![logo](https://github.com/myoztiryaki/Perfect_Match_Project/assets/pmlogo.png)
+![logo](https://github.com/myoztiryaki/Perfect_Match_Project/blob/master/assets/pmlogo.png)
 
 # PERFECT MATCH
 
@@ -58,7 +58,7 @@ After training our model with the data, we developed a system that gives relatio
 
 We decided to present it to users with an interface using Streamlit. There are fields on the user interface to enter the birth date information of two people. The information going backend from the Streamlit service is processed and the prediction result is presented to the user through the Streamlit interface.
 
-![streamlit](https://github.com/myoztiryaki/Perfect_Match_Project/assets/perfectmatcheros.JPG)
+![streamlit](https://github.com/myoztiryaki/Perfect_Match_Project/blob/master/assets/perfectmatcheros.JPG)
 
 
 ## Team Members 
