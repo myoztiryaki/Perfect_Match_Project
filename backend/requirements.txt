@@ -1,0 +1,7 @@
+requests
+python-dotenv
+fastapi[all]==0.86.0
+uvicorn[standard]==0.18.3
+simplejson
+pandas==1.4.4
+scikit-learn
