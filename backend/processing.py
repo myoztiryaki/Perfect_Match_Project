@@ -833,6 +833,7 @@ def perfectmatch(json1,json2):
     # Convert columns 'name1' and 'name2'
     aspect_df['name1'] = label_encoder.fit_transform(aspect_df['name1'])
     aspect_df['name2'] = label_encoder.fit_transform(aspect_df['name2'])
+    aspect_df.dropna(inplace=True)
 
     # Make predictions using the model
     predictions = model.predict(aspect_df[['name1', 'name2', 'aspect']].values)
