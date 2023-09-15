@@ -2,7 +2,7 @@
 
 # PERFECT MATCH
 
-## Astrologıcal Relatıonshıp Compatıbılıty By JR.Eros
+## Astrological Relationship Compatibility By JR.Eros
 
 ### Purpose of The Project 
 **Predicting relationship compatibility between people based on their birth dates.**
